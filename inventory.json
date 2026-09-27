@@ -1,6 +1,6 @@
 {
   "dealership": "Orchard Ford Sales Ltd",
-  "generated_at": "2026-09-26T11:36:14",
+  "generated_at": "2026-09-26T20:36:34",
   "vehicle_count": 30,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -12,7 +12,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/773ca77b9421.html",
       "source_url": "https://orchardford.com/view/used-2017-ford-explorer-1924483/",
       "dealer_url": "https://orchardford.com/view/used-2017-ford-explorer-1924483/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T20:23:46",
+      "last_verified": "2026-09-26T20:34:28",
       "odometer_km": 80525,
       "condition": "used"
     },
@@ -23,7 +23,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/2a0212351c54.html",
       "source_url": "https://orchardford.com/view/used-2017-ford-focus-1913915/",
       "dealer_url": "https://orchardford.com/view/used-2017-ford-focus-1913915/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T20:23:55",
+      "last_verified": "2026-09-26T20:34:37",
       "odometer_km": 70967,
       "condition": "used"
     },
@@ -34,7 +34,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/0ad3b6ebd332.html",
       "source_url": "https://orchardford.com/view/used-2017-ford-fusion-1795494/",
       "dealer_url": "https://orchardford.com/view/used-2017-ford-fusion-1795494/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T20:24:04",
+      "last_verified": "2026-09-26T20:34:45",
       "odometer_km": 112060,
       "condition": "used"
     },
@@ -45,7 +45,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/8b3ee72029fd.html",
       "source_url": "https://orchardford.com/view/used-2017-maserati-levante-1743588/",
       "dealer_url": "https://orchardford.com/view/used-2017-maserati-levante-1743588/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T20:24:15",
+      "last_verified": "2026-09-26T20:34:56",
       "odometer_km": 89221,
       "condition": "used"
     },
@@ -56,7 +56,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/b42c45047ff8.html",
       "source_url": "https://orchardford.com/view/used-2022-ford-f-150-1925323/",
       "dealer_url": "https://orchardford.com/view/used-2022-ford-f-150-1925323/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T20:24:25",
+      "last_verified": "2026-09-26T20:35:05",
       "odometer_km": 104395,
       "condition": "used"
     },
@@ -67,7 +67,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/03532c0788aa.html",
       "source_url": "https://orchardford.com/view/used-2023-ford-bronco-1922091/",
       "dealer_url": "https://orchardford.com/view/used-2023-ford-bronco-1922091/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T20:24:35",
+      "last_verified": "2026-09-26T20:35:16",
       "odometer_km": 25047,
       "condition": "used"
     },
@@ -78,7 +78,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/13fd28b068f9.html",
       "source_url": "https://orchardford.com/view/used-2023-ford-super-duty-f-350-srw-1779844/",
       "dealer_url": "https://orchardford.com/view/used-2023-ford-super-duty-f-350-srw-1779844/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T20:24:43",
+      "last_verified": "2026-09-26T20:35:24",
       "odometer_km": 103967,
       "condition": "used"
     },
@@ -89,7 +89,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/baba302bf624.html",
       "source_url": "https://orchardford.com/view/used-2023-gmc-sierra-1500-1888142/",
       "dealer_url": "https://orchardford.com/view/used-2023-gmc-sierra-1500-1888142/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T20:24:52",
+      "last_verified": "2026-09-26T20:35:32",
       "odometer_km": 137363,
       "condition": "used"
     },
@@ -100,7 +100,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/e1f0f20cfc13.html",
       "source_url": "https://orchardford.com/view/used-2023-mitsubishi-rvr-1886780/",
       "dealer_url": "https://orchardford.com/view/used-2023-mitsubishi-rvr-1886780/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T20:25:03",
+      "last_verified": "2026-09-26T20:35:41",
       "odometer_km": 28389,
       "condition": "used"
     },
@@ -111,7 +111,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/c4554aa8c8d0.html",
       "source_url": "https://orchardford.com/view/used-2023-volvo-xc90-1855851/",
       "dealer_url": "https://orchardford.com/view/used-2023-volvo-xc90-1855851/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T20:25:12",
+      "last_verified": "2026-09-26T20:35:50",
       "odometer_km": 83390,
       "condition": "used"
     },
@@ -122,7 +122,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/3e0d3b4b9280.html",
       "source_url": "https://orchardford.com/view/used-2024-ford-bronco-1879295/",
       "dealer_url": "https://orchardford.com/view/used-2024-ford-bronco-1879295/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T20:25:23",
+      "last_verified": "2026-09-26T20:35:59",
       "odometer_km": 65107,
       "condition": "used"
     },
@@ -133,7 +133,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/26bcb3fdb9ae.html",
       "source_url": "https://orchardford.com/view/used-2024-ford-bronco-1910788/",
       "dealer_url": "https://orchardford.com/view/used-2024-ford-bronco-1910788/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T20:25:33",
+      "last_verified": "2026-09-26T20:36:10",
       "odometer_km": 17772,
       "condition": "used"
     },
@@ -144,7 +144,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/e74b8ba67e51.html",
       "source_url": "https://orchardford.com/view/used-2024-ford-f-150-1922108/",
       "dealer_url": "https://orchardford.com/view/used-2024-ford-f-150-1922108/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T20:25:43",
+      "last_verified": "2026-09-26T20:36:20",
       "odometer_km": 19182,
       "condition": "used"
     },
@@ -155,7 +155,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/390ad0419bed.html",
       "source_url": "https://orchardford.com/view/used-2024-ford-f-150-1927496/",
       "dealer_url": "https://orchardford.com/view/used-2024-ford-f-150-1927496/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T20:25:52",
+      "last_verified": "2026-09-26T20:36:29",
       "odometer_km": 33148,
       "condition": "used"
     },
