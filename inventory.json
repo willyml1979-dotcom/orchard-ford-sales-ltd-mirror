@@ -1,7 +1,7 @@
 {
   "dealership": "Orchard Ford Sales Ltd",
-  "generated_at": "2026-10-18T15:01:01",
-  "vehicle_count": 31,
+  "generated_at": "2026-10-18T15:04:04",
+  "vehicle_count": 30,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -201,13 +201,13 @@
       "province": "BC"
     },
     {
-      "name": "New2026 Ford Explorer",
-      "vin": "1FMWK8JCXTGA03653",
-      "stock": "260030",
-      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/7c6e1074dd2e.html",
-      "source_url": "https://orchardford.com/view/new-2026-ford-explorer-1554046/",
-      "dealer_url": "https://orchardford.com/view/new-2026-ford-explorer-1554046/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T04:22:41",
+      "name": "New2026 Ford Super Duty",
+      "vin": "1FT8W3BM1TED14539",
+      "stock": "260066",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/71bf96787708.html",
+      "source_url": "https://orchardford.com/view/new-2026-ford-super-duty-1589938/",
+      "dealer_url": "https://orchardford.com/view/new-2026-ford-super-duty-1589938/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T15:01:39",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -219,7 +219,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/10b398fe49f6.html",
       "source_url": "https://orchardford.com/view/new-2027-ford-expedition-1909905/",
       "dealer_url": "https://orchardford.com/view/new-2027-ford-expedition-1909905/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T04:22:51",
+      "last_verified": "2026-10-18T15:03:13",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -231,7 +231,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/b8bab958613d.html",
       "source_url": "https://orchardford.com/view/new-2027-ford-expedition-1917530/",
       "dealer_url": "https://orchardford.com/view/new-2027-ford-expedition-1917530/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T04:22:59",
+      "last_verified": "2026-10-18T15:03:21",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -243,7 +243,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/4576644bf8ef.html",
       "source_url": "https://orchardford.com/view/new-2027-ford-expedition-1929433/",
       "dealer_url": "https://orchardford.com/view/new-2027-ford-expedition-1929433/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T04:23:07",
+      "last_verified": "2026-10-18T15:03:31",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -255,7 +255,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/58b8b18be285.html",
       "source_url": "https://orchardford.com/view/new-2027-ford-explorer-1871490/",
       "dealer_url": "https://orchardford.com/view/new-2027-ford-explorer-1871490/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T04:23:15",
+      "last_verified": "2026-10-18T15:03:43",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -267,7 +267,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/2193c09320a1.html",
       "source_url": "https://orchardford.com/view/new-2027-ford-explorer-1917524/",
       "dealer_url": "https://orchardford.com/view/new-2027-ford-explorer-1917524/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T04:23:23",
+      "last_verified": "2026-10-18T15:03:51",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -279,7 +279,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/0d2ece691bbb.html",
       "source_url": "https://orchardford.com/view/new-2027-ford-explorer-1941243/",
       "dealer_url": "https://orchardford.com/view/new-2027-ford-explorer-1941243/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T04:21:43",
+      "last_verified": "2026-10-18T15:01:57",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -339,7 +339,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/a826c1ff24cd.html",
       "source_url": "https://orchardford.com/view/new-2027-ford-super-duty-1932841/",
       "dealer_url": "https://orchardford.com/view/new-2027-ford-super-duty-1932841/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T04:21:51",
+      "last_verified": "2026-10-18T15:02:07",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -351,7 +351,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/ec6c1cf3223f.html",
       "source_url": "https://orchardford.com/view/new-2027-ford-super-duty-1942579/",
       "dealer_url": "https://orchardford.com/view/new-2027-ford-super-duty-1942579/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T04:22:01",
+      "last_verified": "2026-10-18T15:02:15",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -363,19 +363,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/20317c4c0ba8.html",
       "source_url": "https://orchardford.com/view/new-2027-ford-super-duty-1949268/",
       "dealer_url": "https://orchardford.com/view/new-2027-ford-super-duty-1949268/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T04:22:09",
-      "condition": "new",
-      "city": "Kelowna",
-      "province": "BC"
-    },
-    {
-      "name": "New2027 Ford Transit",
-      "vin": "1FTBW3UG9VKA07427",
-      "stock": "270005",
-      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/2db2a6c2ff8e.html",
-      "source_url": "https://orchardford.com/view/new-2027-ford-transit-1917522/",
-      "dealer_url": "https://orchardford.com/view/new-2027-ford-transit-1917522/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T20:39:08",
+      "last_verified": "2026-10-18T15:02:25",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -387,7 +375,7 @@
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/9a31b51fda7c.html",
       "source_url": "https://orchardford.com/view/new-2027-ford-transit-1948017/",
       "dealer_url": "https://orchardford.com/view/new-2027-ford-transit-1948017/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T04:22:17",
+      "last_verified": "2026-10-18T15:02:35",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
