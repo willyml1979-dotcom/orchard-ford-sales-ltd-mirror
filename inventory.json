@@ -1,6 +1,6 @@
 {
   "dealership": "Orchard Ford Sales Ltd",
-  "generated_at": "2026-10-25T20:19:26",
+  "generated_at": "2026-10-25T20:22:45",
   "vehicle_count": 30,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -96,6 +96,12 @@
       "condition": "used"
     },
     {
+      "name": "New2026 Ford F-150",
+      "vin": "1FTFW5L85TFA13058",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/272b68482630.html",
+      "condition": "new"
+    },
+    {
       "name": "New2026 Ford Super Duty",
       "vin": "1FT8W3BM1TED14539",
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/71bf96787708.html",
@@ -105,12 +111,6 @@
       "name": "New2027 Ford Expedition",
       "vin": "1FMJK1M85VEA14003",
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/10b398fe49f6.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2027 Ford Expedition",
-      "vin": "1FMJU1RG1VEA14896",
-      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/b8bab958613d.html",
       "condition": "new"
     },
     {
