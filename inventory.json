@@ -1,10 +1,16 @@
 {
   "dealership": "Orchard Ford Sales Ltd",
-  "generated_at": "2026-10-25T20:22:45",
-  "vehicle_count": 30,
+  "generated_at": "2026-11-16T18:30:44",
+  "vehicle_count": 34,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Used2017 Ford Escape",
+      "vin": "1FMCU9G98HUE19420",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/052dc8708734.html",
+      "condition": "used"
+    },
     {
       "name": "Used2017 Ford Focus",
       "vin": "WF0DP3TH9H4120770",
@@ -30,6 +36,24 @@
       "condition": "used"
     },
     {
+      "name": "Used2021 Volkswagen Atlas Cross Sport",
+      "vin": "1V2BE2CAXMC222669",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/8d1c28206f4c.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022 Ford Explorer",
+      "vin": "1FM5K8GC3NGB40262",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/ccb1a7af3900.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022 Ford F-150",
+      "vin": "1FTFW1ED7NFB25379",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/5fd0494ad864.html",
+      "condition": "used"
+    },
+    {
       "name": "Used2022 Subaru WRX",
       "vin": "JF1VBAL67N9018090",
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/0f65c43f2386.html",
@@ -39,6 +63,12 @@
       "name": "Used2023 Ford Bronco",
       "vin": "1FMEE5DP9PLB66680",
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/03532c0788aa.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023 Ford Explorer",
+      "vin": "1FMSK8DH2PGA45259",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/958a38de7a76.html",
       "condition": "used"
     },
     {
@@ -87,12 +117,6 @@
       "name": "Used2025 Ford Escape",
       "vin": "1FMCU9JA2SUB37591",
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/74601ad3adaf.html",
-      "condition": "used"
-    },
-    {
-      "name": "Used2026 Ford Explorer",
-      "vin": "1FMWK8GC7TGA43471",
-      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/501741670db7.html",
       "condition": "used"
     },
     {
