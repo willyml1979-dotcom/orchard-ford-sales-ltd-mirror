@@ -1,7 +1,7 @@
 {
   "dealership": "Orchard Ford Sales Ltd",
-  "generated_at": "2026-11-16T18:30:44",
-  "vehicle_count": 34,
+  "generated_at": "2026-11-16T18:40:19",
+  "vehicle_count": 51,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -120,9 +120,57 @@
       "condition": "used"
     },
     {
+      "name": "New2026 Ford Bronco Sport",
+      "vin": "3FMCR9BN2TRE19242",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/3e03c552b369.html",
+      "condition": "new"
+    },
+    {
       "name": "New2026 Ford F-150",
       "vin": "1FTFW5L85TFA13058",
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/272b68482630.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Ford F-150",
+      "vin": "1FTFW5LD4TFA10746",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/d70b2dc041fd.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Ford F-150",
+      "vin": "1FTFW5L83TKD44373",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/0035f03f5554.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Ford F-150",
+      "vin": "1FTFW5L82TFA53386",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/d59cce9bd459.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Ford F-150",
+      "vin": "1FTFW5L87TFA64111",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/2f05ac9b24d8.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Ford Mustang",
+      "vin": "1FA6P8TH2T5112656",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/10aa110a8c86.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Ford Mustang",
+      "vin": "1FA6P8THXT5111139",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/68268f6319bd.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Ford Mustang",
+      "vin": "1FA6P8TH3T5115453",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/02c962ff6b3c.html",
       "condition": "new"
     },
     {
@@ -132,15 +180,9 @@
       "condition": "new"
     },
     {
-      "name": "New2027 Ford Expedition",
-      "vin": "1FMJK1M85VEA14003",
-      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/10b398fe49f6.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2027 Ford Expedition",
-      "vin": "1FMJK1M83VEA12993",
-      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/4576644bf8ef.html",
+      "name": "New2026 Ford Super Duty",
+      "vin": "1FT8W3BMXTED95637",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/2e6f056c5198.html",
       "condition": "new"
     },
     {
@@ -157,8 +199,44 @@
     },
     {
       "name": "New2027 Ford Explorer",
-      "vin": "1FMUK8JH7VGA06578",
-      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/b88c7c2e520c.html",
+      "vin": "1FMWK8GC5VGA54343",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/ad312a4c9e47.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Ford Explorer",
+      "vin": "1FMUK8KH0VGA58486",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/df8d7719f35c.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Ford Explorer",
+      "vin": "1FMWK8GC6VGA62497",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/cec9f5e7ee1d.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Ford Explorer",
+      "vin": "1FMUK8JHXVGA57752",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/c0132a927c62.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Ford Explorer",
+      "vin": "1FMWK8GC9VGA61280",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/2f9345ffd2fe.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Ford Explorer",
+      "vin": "1FMUK8KH2VGA57064",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/66cbe0190cfb.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Ford Explorer",
+      "vin": "1FMUK8KH9VGA59331",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/090ff1f51df0.html",
       "condition": "new"
     },
     {
@@ -204,9 +282,33 @@
       "condition": "new"
     },
     {
+      "name": "New2027 Ford Super Duty",
+      "vin": "2FT8W3BM7VBA03986",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/b63980e2d889.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Ford Super Duty",
+      "vin": "2FT8W3BM0VBA02324",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/f4e562d7a821.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Ford Super Duty",
+      "vin": "2FT8W3BM5VBA03257",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/f21842751131.html",
+      "condition": "new"
+    },
+    {
       "name": "New2027 Ford Transit",
       "vin": "1FTBW3UG9VKA21537",
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/9a31b51fda7c.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Ford Transit",
+      "vin": "1FTBR1C85VKA27938",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/new/a3e620eff4f9.html",
       "condition": "new"
     }
   ]
