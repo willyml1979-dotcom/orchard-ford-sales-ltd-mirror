@@ -1,7 +1,7 @@
 {
   "dealership": "Orchard Ford Sales Ltd",
-  "generated_at": "2026-11-16T18:40:19",
-  "vehicle_count": 51,
+  "generated_at": "2026-11-17T18:34:26",
+  "vehicle_count": 49,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -60,12 +60,6 @@
       "condition": "used"
     },
     {
-      "name": "Used2023 Ford Bronco",
-      "vin": "1FMEE5DP9PLB66680",
-      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/03532c0788aa.html",
-      "condition": "used"
-    },
-    {
       "name": "Used2023 Ford Explorer",
       "vin": "1FMSK8DH2PGA45259",
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/958a38de7a76.html",
@@ -111,12 +105,6 @@
       "name": "Used2025 Ford Escape",
       "vin": "1FMCU0E17SUB37852",
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/e2cc03dad933.html",
-      "condition": "used"
-    },
-    {
-      "name": "Used2025 Ford Escape",
-      "vin": "1FMCU9JA2SUB37591",
-      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/74601ad3adaf.html",
       "condition": "used"
     },
     {
