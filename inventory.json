@@ -1,6 +1,6 @@
 {
   "dealership": "Orchard Ford Sales Ltd",
-  "generated_at": "2026-11-17T18:47:05",
+  "generated_at": "2026-11-18T18:41:05",
   "vehicle_count": 58,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -27,12 +27,6 @@
       "name": "Used2021 GMC Sierra 1500",
       "vin": "1GTU9FET9MZ435937",
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/7ea346023654.html",
-      "condition": "used"
-    },
-    {
-      "name": "Used2021 Jeep Grand Cherokee",
-      "vin": "1C4RJFJTXMC702573",
-      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/d3bbdf086b9c.html",
       "condition": "used"
     },
     {
@@ -105,6 +99,12 @@
       "name": "Used2025 Ford Escape",
       "vin": "1FMCU0E17SUB37852",
       "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/e2cc03dad933.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2026 Ford Super Duty",
+      "vin": "1FT8W3BM1TED14539",
+      "url": "https://willyml1979-dotcom.github.io/orchard-ford-sales-ltd-mirror/used/a15a5d267178.html",
       "condition": "used"
     },
     {
